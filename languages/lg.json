@@ -1,0 +1,14 @@
+{
+    "pt": {
+        "greeting": "Olá, é maravilhoso ter você aqui!",
+        "select": "Selecione uma opção para continuar.",
+        "next-button": "Continuar",
+        "license": "Tenho uma chave de ativação"
+    },
+    "en": {
+         "greeting": "Hey! is wonderful to have you there!",
+         "select": "Select an option to continue",
+         "next-button": "Next",
+         "license": "I have an license key"
+    }
+}
